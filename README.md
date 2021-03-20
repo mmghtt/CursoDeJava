@@ -1,5 +1,6 @@
 # CursoDeJava
 <h4>Curso de Java - Fundamentos</h4>
+<h6>Ensinado pela escola *COD3R* (Escola de cursos online de programação) através da plataforma de ensino *Udemy*</h6>
 
 Assuntos abordados:
 
