@@ -6,7 +6,7 @@ Assuntos abordados:
 
 -Algoritmo e Estrutura de Dados<br />
 -Fundamentos da Linguagem Java<br />
--Etruturas de Controle<br />
+-Estruturas de Controle<br />
 -Classes, Objetos, Métodos<br />
 -Orientação a Objeto<br />
 -Encapsulamento, Herança, Polimorfismo e Abstração<br />
