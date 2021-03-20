@@ -3,7 +3,7 @@ Curso de Java - Fundamentos
 
 Assuntos abordados:
 
--Algoritmo e Estrutura de Dados
+-Algoritmo e Estrutura de Dados\n
 -Fundamentos da Linguagem Java
 -Etruturas de Controle
 -Classes, Objetos, Métodos
