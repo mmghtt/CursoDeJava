@@ -14,4 +14,3 @@ Assuntos abordados:
 -Stream API<br />
 -Tratamento de Exceções<br />
 
-https://udemy-certificate.s3.amazonaws.com/pdf/UC-7ab1daa0-225a-47c8-9f3a-e3e8de08b2d3.pdf
